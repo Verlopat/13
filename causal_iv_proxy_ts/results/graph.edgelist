@@ -1,0 +1,10 @@
+X Y {'lag': 2, 'weight': 1.2168576915793998, 'method': 'proxy_adjusted'}
+X W {'lag': 2, 'weight': 0.14757108757548193, 'method': 'proxy_adjusted'}
+Y X {'lag': 2, 'weight': 0.3138002378555582, 'method': 'proxy_adjusted'}
+Y W {'lag': 2, 'weight': 0.10462638475080951, 'method': 'proxy_adjusted'}
+Y C {'lag': 1, 'weight': 0.05982318884844525, 'method': 'proxy_adjusted'}
+W X {'lag': 2, 'weight': 0.5050760612859062, 'method': 'proxy_adjusted'}
+W Y {'lag': 2, 'weight': 1.730030762414801, 'method': 'proxy_adjusted'}
+Z X {'lag': 2, 'weight': 0.19826598232467985, 'method': 'ols'}
+Z Y {'lag': 2, 'weight': 0.23888855734705697, 'method': 'ols'}
+C Y {'lag': 2, 'weight': 13.973990113698283, 'method': 'proxy_adjusted'}
